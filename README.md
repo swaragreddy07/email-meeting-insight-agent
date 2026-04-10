@@ -13,17 +13,17 @@ An AI-powered agent that transforms unstructured email and meeting notes into st
 
 ### 🔹 Summary View
 
-![Summary](assets/UI-1.png)
+![Summary](assets/summary-view.png)
 
 ### 🔹 Extracted Entities & Tasks
 
-![Entities](assets/UI-2.png)
+![Entities](assets/entities-view.png)
 
 ---
 
 ## 🧩 Workflow Architecture
 
-![Workflow](assets/workflow.png)
+![Workflow](assets/workflow_diagram.png)
 
 The system follows a structured agent workflow:
 
