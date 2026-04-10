@@ -1,6 +1,6 @@
 # Email & Meeting Insight Agent
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Python](https://img.shields.io/badge/Python-3.14+-blue)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
 ![LangChain](https://img.shields.io/badge/LLM-LangChain-green)
 ![LangGraph](https://img.shields.io/badge/Workflow-LangGraph-purple)
@@ -13,17 +13,17 @@ An AI-powered agent that transforms unstructured email and meeting notes into st
 
 ### 🔹 Summary View
 
-![Summary](assets/UI-1.jpg)
+![Summary](assets/UI-1.png)
 
 ### 🔹 Extracted Entities & Tasks
 
-![Entities](assets/UI-2.jpg)
+![Entities](assets/UI-2.png)
 
 ---
 
 ## 🧩 Workflow Architecture
 
-![Workflow](assets/workflow_diagram.png)
+![Workflow](assets/workflow.png)
 
 The system follows a structured agent workflow:
 
@@ -221,7 +221,3 @@ Swarag
 ## License
 
 This project is intended for learning, experimentation, and portfolio use.
-
-```
-
-```
